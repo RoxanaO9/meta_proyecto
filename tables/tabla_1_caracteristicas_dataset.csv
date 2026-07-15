@@ -1,0 +1,9 @@
+Característica,Valor
+Nombre del Dataset,heart.csv (Heart Disease Dataset - Kaggle/UCI adaptado)
+Número de registros,918 instancias
+Número de variables,11 predictoras + 1 objetivo (12 total)
+Variables codificadas,20
+Variable objetivo,"HeartDisease (0 = no enfermedad, 1 = enfermedad)"
+Tipo de problema,Clasificación binaria
+Valores faltantes,0
+Duplicados,0

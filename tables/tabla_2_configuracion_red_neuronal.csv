@@ -1,0 +1,8 @@
+Parámetro,Valor
+Tipo de red,MLP (Multilayer Perceptron)
+Arquitectura base,"20 entrada codificada, 64, 32, 16, 1 salida"
+Activaciones,ReLU en capas ocultas; Sigmoid en salida
+Dropout base,"0.30, 0.30, 0.20"
+Learning rate base,0.001
+Épocas máximas base,100
+Early stopping,"Patience=12, restore best weights"
