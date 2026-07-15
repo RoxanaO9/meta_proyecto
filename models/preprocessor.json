@@ -1,0 +1,81 @@
+{
+  "numeric_cols": [
+    "Age",
+    "RestingBP",
+    "Cholesterol",
+    "FastingBS",
+    "MaxHR",
+    "Oldpeak"
+  ],
+  "categorical_cols": [
+    "Sex",
+    "ChestPainType",
+    "RestingECG",
+    "ExerciseAngina",
+    "ST_Slope"
+  ],
+  "means": {
+    "Age": 53.47018739352641,
+    "RestingBP": 132.6388415672913,
+    "Cholesterol": 196.63373083475298,
+    "FastingBS": 0.22487223168654175,
+    "MaxHR": 135.92504258943782,
+    "Oldpeak": 0.8645655877342419
+  },
+  "stds": {
+    "Age": 9.208194657888065,
+    "RestingBP": 17.813793366165612,
+    "Cholesterol": 110.81476365309558,
+    "FastingBS": 0.41749815700534065,
+    "MaxHR": 25.272036174232433,
+    "Oldpeak": 1.0585926212152788
+  },
+  "categories": {
+    "Sex": [
+      "F",
+      "M"
+    ],
+    "ChestPainType": [
+      "ASY",
+      "ATA",
+      "NAP",
+      "TA"
+    ],
+    "RestingECG": [
+      "LVH",
+      "Normal",
+      "ST"
+    ],
+    "ExerciseAngina": [
+      "N",
+      "Y"
+    ],
+    "ST_Slope": [
+      "Down",
+      "Flat",
+      "Up"
+    ]
+  },
+  "feature_names": [
+    "Age",
+    "RestingBP",
+    "Cholesterol",
+    "FastingBS",
+    "MaxHR",
+    "Oldpeak",
+    "Sex_F",
+    "Sex_M",
+    "ChestPainType_ASY",
+    "ChestPainType_ATA",
+    "ChestPainType_NAP",
+    "ChestPainType_TA",
+    "RestingECG_LVH",
+    "RestingECG_Normal",
+    "RestingECG_ST",
+    "ExerciseAngina_N",
+    "ExerciseAngina_Y",
+    "ST_Slope_Down",
+    "ST_Slope_Flat",
+    "ST_Slope_Up"
+  ]
+}
