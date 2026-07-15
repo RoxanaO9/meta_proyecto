@@ -1,0 +1,12 @@
+{
+  "learning_rate": 0.01,
+  "epochs": 79,
+  "batch_size": 32,
+  "dropout1": 0.0,
+  "dropout2": 0.2,
+  "dropout3": 0.3,
+  "h1": 64,
+  "h2": 32,
+  "h3": 16,
+  "patience": 8
+}

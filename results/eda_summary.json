@@ -1,0 +1,30 @@
+{
+  "records": 918,
+  "columns": 12,
+  "predictors": 11,
+  "target": "HeartDisease",
+  "missing_values": {
+    "Age": 0,
+    "Sex": 0,
+    "ChestPainType": 0,
+    "RestingBP": 0,
+    "Cholesterol": 0,
+    "FastingBS": 0,
+    "RestingECG": 0,
+    "MaxHR": 0,
+    "ExerciseAngina": 0,
+    "Oldpeak": 0,
+    "ST_Slope": 0,
+    "HeartDisease": 0
+  },
+  "duplicates": 0,
+  "class_distribution": {
+    "0": 410,
+    "1": 508
+  },
+  "quality_notes": {
+    "RestingBP_igual_0": 1,
+    "Cholesterol_igual_0": 172,
+    "MaxHR_menor_40": 0
+  }
+}
